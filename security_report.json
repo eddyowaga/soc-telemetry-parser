@@ -1,0 +1,9 @@
+{
+    "total_events_parsed": 6,
+    "malicious_ips_detected": [
+        "198.51.100.42"
+    ],
+    "attacker_metrics": {
+        "198.51.100.42": 5
+    }
+}
